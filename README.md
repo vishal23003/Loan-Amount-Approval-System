@@ -1,4 +1,4 @@
-# Loan-Amount-Approval-System
+# 🏦 Loan Approval Prediction System
 
 This project is a Machine Learning-based web application that predicts whether a loan should be approved or not based on applicant details. It uses a Logistic Regression model trained on historical loan data and deployed using Flask.
 
@@ -10,9 +10,6 @@ This project is a Machine Learning-based web application that predicts whether a
 - Interactive and clean web UI built with HTML & CSS.
 - Preprocessing includes feature scaling and categorical encoding.
 - End-to-end deployment using Flask.
-
----
-
 
 ---
 
@@ -41,5 +38,3 @@ The model uses the following features to make predictions:
 ```bash
 git clone https://github.com/your-username/loan-approval-prediction.git
 cd loan_approval_deploy
-
-
